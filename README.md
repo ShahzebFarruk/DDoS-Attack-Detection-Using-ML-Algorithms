@@ -13,3 +13,7 @@
 2. RandomForestAlgorithm.ipynb - This file contains the implementatation of Random Forest Algorithm
 3. SVM_and_Naive_Bayes.ipynb - This file contains the implementatation of both the Support Vector Machine and Naive Bayes Algorithm
 4. KNN.ipynb - This file contains the implementation of k-Nearest Neighbours Algorithm
+
+## Results
+![image](https://user-images.githubusercontent.com/61950234/115968499-3905cb80-a506-11eb-8148-0b5e52573fd5.png)
+
