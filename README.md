@@ -1,4 +1,6 @@
 # Distributed Denial of Service Attack Using Machine Learning Techniques
+![Random Forest](https://user-images.githubusercontent.com/61950234/115968373-ad8c3a80-a505-11eb-9d65-81b7eb30658b.png)
+
 ## Algorithms Implemented 
 1. Decision Tree
 2. Random Forest
