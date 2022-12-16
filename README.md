@@ -17,3 +17,10 @@
 ## Results
 ![image](https://user-images.githubusercontent.com/61950234/115968499-3905cb80-a506-11eb-8148-0b5e52573fd5.png)
 
+## More Results
+
+# Validation Curve for Random Forest Algorithm!
+![image](https://user-images.githubusercontent.com/61950234/208033034-fadaa511-1aef-434c-8670-f495415597bf.png)
+
+Learning Curve for SVM Classifier, Auto!
+[image](https://user-images.githubusercontent.com/61950234/208033375-71655a5d-dd4d-437d-8e57-e871ce6f86cc.png)
